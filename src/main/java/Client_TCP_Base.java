@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 public class Client_TCP_Base {
     public static void main(String[] args) throws InterruptedException {
         In clavier = new In();
-        int PORT = 8651;
+        int PORT = 4000;
         Socket socket;
         PrintStream out;
         BufferedReader in;
