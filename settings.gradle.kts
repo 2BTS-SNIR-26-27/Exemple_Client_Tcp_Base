@@ -1,0 +1,1 @@
+rootProject.name = "Exemple_Client_Tcp_Base"
